@@ -1,3 +1,4 @@
+syntax = "proto2";
 package hefur.pb;
 
 enum Status
